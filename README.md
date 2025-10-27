@@ -16,3 +16,4 @@ Usage:
 	1.	Add the web part to a SharePoint page.
 	2.	Enter your Elf site URL in the Property Pane.
 	3.	View the feed directly on the page.
+
