@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "IntraneXt LinkedIn Feed",
+    "id": "38464f45-9ac0-465a-bc0d-a079868fb4b5",
+    "version": "1.0.2.9",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "IntraneXtLinkedInFeed description"
+      },
+      "longDescription": {
+        "default": "IntraneXtLinkedInFeed description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "intrane-xt-linked-in-feed Feature",
+        "description": "The feature that activates elements of the intrane-xt-linked-in-feed solution.",
+        "id": "728c713f-9aa0-4c70-853a-c3702209581e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/intraneXt-linkedIn-feed.sppkg"
+  }
+}

@@ -1,0 +1,22 @@
+.infoFeed {
+	width: 100%;
+	height: 420px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 6px;
+	overflow: hidden;
+}
+
+.placeholder {
+	padding: 20px;
+	text-align: center;
+	color: #666;
+	font-size: 14px;
+}
+
+.iframe {
+	width: 100%;
+	height: 100%;
+	border: none;
+}

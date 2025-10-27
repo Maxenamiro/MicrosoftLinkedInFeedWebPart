@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "intrane-xt-linked-in-feed",
+    "libraryId": "38464f45-9ac0-465a-bc0d-a079868fb4b5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "IntraneXtLinkedInFeed",
+    "solutionShortDescription": "IntraneXtLinkedInFeed description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
